@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[XZ]]></title>
-  <link href="http://www.xingzhou.me/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Life | XZ]]></title>
+  <link href="http://www.xingzhou.me/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://www.xingzhou.me/"/>
   <updated>2013-12-18T00:21:44-05:00</updated>
   <id>http://www.xingzhou.me/</id>
