@@ -6,4 +6,14 @@ comments: true
 categories: life programming
 ---
 
-Test
+* Description
+  Track the progress of spending 100 hours of quality time
+  on a given task.  The task I have chosen is to strengthen my
+  fundamental skills in data structure and algorithms by going through
+  the book "Introduction to Algorithms (3rd Edition)" by Cormen,
+  Leiserson, Rivest, and Stein.
+
+* Time Tracker
+  Keep track of hours spent on tasks using Org-mode's clocking
+  function.
+** Divide and Conquer
