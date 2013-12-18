@@ -4,7 +4,7 @@
   <title><![CDATA[Xing Zhou]]></title>
   <link href="http://www.xingzhou.me/atom.xml" rel="self"/>
   <link href="http://www.xingzhou.me/"/>
-  <updated>2013-12-18T01:23:42-05:00</updated>
+  <updated>2013-12-18T01:26:36-05:00</updated>
   <id>http://www.xingzhou.me/</id>
   <author>
     <name><![CDATA[Xing Zhou]]></name>
@@ -18,7 +18,19 @@
     <link href="http://www.xingzhou.me/blog/2013/12/18/100-hours/"/>
     <updated>2013-12-18T00:20:31-05:00</updated>
     <id>http://www.xingzhou.me/blog/2013/12/18/100-hours</id>
-    <content type="html"><![CDATA[<p>Test</p>
+    <content type="html"><![CDATA[<ul>
+<li><p>Description
+Track the progress of spending 100 hours of quality time
+on a given task.  The task I have chosen is to strengthen my
+fundamental skills in data structure and algorithms by going through
+the book &ldquo;Introduction to Algorithms (3rd Edition)&rdquo; by Cormen,
+Leiserson, Rivest, and Stein.</p></li>
+<li><p>Time Tracker
+Keep track of hours spent on tasks using Org-mode&rsquo;s clocking
+function.
+** Divide and Conquer</p></li>
+</ul>
+
 ]]></content>
   </entry>
   
