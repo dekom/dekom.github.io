@@ -2,18 +2,26 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://www.xingzhou.me/blog/2013/12/18/100-hours/</loc>
-        <lastmod>2013-12-18T00:21:24-05:00</lastmod>
+        <lastmod>2013-12-18T00:31:52-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.xingzhou.me/blog/archives/</loc>
-        <lastmod>2013-12-18T00:21:24-05:00</lastmod>
+        <lastmod>2013-12-18T00:31:52-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.xingzhou.me/blog/</loc>
+        <lastmod>2013-12-18T00:31:52-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.xingzhou.me/archives/</loc>
+        <lastmod>2013-12-18T00:31:52-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.xingzhou.me/robots.txt</loc>
-        <lastmod>2013-12-18T00:10:14-05:00</lastmod>
+        <lastmod>2013-12-18T00:31:52-05:00</lastmod>
     </url>
     <url>
         <loc>http://www.xingzhou.me/</loc>
-        <lastmod>2013-12-18T00:21:24-05:00</lastmod>
+        <lastmod>2013-12-18T00:31:52-05:00</lastmod>
     </url>
 </urlset>
