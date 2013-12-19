@@ -4,7 +4,7 @@
   <title><![CDATA[Category: life | Xing Zhou]]></title>
   <link href="http://www.xingzhou.me/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://www.xingzhou.me/"/>
-  <updated>2013-12-18T01:26:36-05:00</updated>
+  <updated>2013-12-19T01:37:30-05:00</updated>
   <id>http://www.xingzhou.me/</id>
   <author>
     <name><![CDATA[Xing Zhou]]></name>
@@ -18,18 +18,52 @@
     <link href="http://www.xingzhou.me/blog/2013/12/18/100-hours/"/>
     <updated>2013-12-18T00:20:31-05:00</updated>
     <id>http://www.xingzhou.me/blog/2013/12/18/100-hours</id>
-    <content type="html"><![CDATA[<ul>
-<li><p>Description
-Track the progress of spending 100 hours of quality time
-on a given task.  The task I have chosen is to strengthen my
-fundamental skills in data structure and algorithms by going through
-the book &ldquo;Introduction to Algorithms (3rd Edition)&rdquo; by Cormen,
-Leiserson, Rivest, and Stein.</p></li>
-<li><p>Time Tracker
-Keep track of hours spent on tasks using Org-mode&rsquo;s clocking
-function.
-** Divide and Conquer</p></li>
-</ul>
+    <content type="html"><![CDATA[<p>Inspired by conversation on <a href="https://news.ycombinator.com/item?id=6922348">this hacker news discussion</a>, I want
+to experience the (presumed) growth from spending actually 100
+meaningful hours on a given task.  This post will be routinely updated
+with the progress I make along the way, with a time tracking table and
+thoughts.</p>
+
+<p>The task I have chosen is to strengthen my fundamental skills in data
+structure and algorithms by going through the book <em>Introduction to
+Algorithms (3rd Edition)</em> by Cormen, Leiserson, Rivest, and Stein
+(<a href="http://mitpress.mit.edu/books/introduction-algorithms/">MIT Press</a>).  In addition, I will be using <a href="http://orgmode.org/">Org-mode</a>&rsquo;s
+<a href="http://orgmode.org/manual/Clocking-commands.html">clocking feature</a> to keep track of my time progress.</p>
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="left">Headline</th>
+<th scope="col" class="left">Time</th>
+<th scope="col" class="left">&#xa0;</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="left">**Total time**</td>
+<td class="left">**1:20**</td>
+<td class="left">&#xa0;</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td class="left">\\\_\_ Divide and Conquer</td>
+<td class="left">&#xa0;</td>
+<td class="left">1:20</td>
+</tr>
+</tbody>
+</table>
 
 ]]></content>
   </entry>

@@ -1,0 +1,38 @@
+#+OPTIONS: toc:nil
+#+BEGIN_HTML
+---
+layout: post
+title: "100 Hours"
+date: 2013-12-18 00:20:31 -0500
+comments: true
+categories: [life, programming]
+---
+#+END_HTML
+
+#+LINK: HN https://news.ycombinator.com/item?id=6922348
+#+LINK: MITPress http://mitpress.mit.edu/books/introduction-algorithms/
+#+LINK: Org http://orgmode.org/
+#+LINK: OrgClock http://orgmode.org/manual/Clocking-commands.html
+
+Inspired by conversation on [[HN][this hacker news discussion]], I want
+to experience the (presumed) growth from spending actually 100
+meaningful hours on a given task.  This post will be routinely updated
+with the progress I make along the way, with a time tracking table and
+thoughts.
+
+The task I have chosen is to strengthen my fundamental skills in data
+structure and algorithms by going through the book /Introduction to
+Algorithms (3rd Edition)/ by Cormen, Leiserson, Rivest, and Stein
+([[MITPress][MIT Press]]).  In addition, I will be using [[Org][Org-mode]]'s
+[[OrgClock][clocking feature]] to keep track of my time progress.
+
+#+BEGIN: clocktable :maxlevel 2 :scope file
+| Headline               | Time   |      |
+|------------------------+--------+------|
+| *Total time*           | *1:20* |      |
+|------------------------+--------+------|
+| \__ Divide and Conquer |        | 1:20 |
+#+END:
+
+** COMMENT Divide and Conquer
+  CLOCK: [2013-12-18 Wed 22:08]--[2013-12-18 Wed 23:28] =>  1:20
