@@ -26,6 +26,7 @@ Algorithms (3rd Edition)/ by Cormen, Leiserson, Rivest, and Stein
 ([[MITPress][MIT Press]]).  In addition, I will be using [[Org][Org-mode]]'s
 [[OrgClock][clocking feature]] to keep track of my time progress.
 
+
 #+BEGIN: clocktable :maxlevel 2 :scope file
 | Headline               | Time   |      |
 |------------------------+--------+------|
@@ -34,5 +35,7 @@ Algorithms (3rd Edition)/ by Cormen, Leiserson, Rivest, and Stein
 | \__ Divide and Conquer |        | 1:20 |
 #+END:
 
-** COMMENT Divide and Conquer
+* COMMENT Task Timers
+** Divide and Conquer
+   CLOCK: [2013-12-24 Tue 09:44]--[2013-12-24 Tue 09:54] =>  0:10
   CLOCK: [2013-12-18 Wed 22:08]--[2013-12-18 Wed 23:28] =>  1:20
